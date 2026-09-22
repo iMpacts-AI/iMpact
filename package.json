@@ -1,0 +1,22 @@
+{
+  "name": "@impact-ai/ecosystem",
+  "version": "1.0.0",
+  "description": "iMpact AI — Sovereign Autonomous Operating Systems & Agentic Infrastructure",
+  "main": "index.js",
+  "scripts": {
+    "info": "echo \"iMpact AI Ecosystem Online\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMpacts-AI/iMpact.git"
+  },
+  "keywords": [
+    "impact-ai",
+    "orion",
+    "autonomous-agent",
+    "computer-use",
+    "ai-os"
+  ],
+  "author": "iMpact AI Engineering",
+  "license": "MIT"
+}
