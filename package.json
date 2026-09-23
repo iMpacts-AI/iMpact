@@ -1,22 +1,29 @@
 {
-  "name": "@impact-ai/ecosystem",
+  "name": "@impact-ai/core",
   "version": "1.0.0",
-  "description": "iMpact AI — Sovereign Autonomous Operating Systems & Agentic Infrastructure",
-  "main": "index.js",
+  "description": "iMpact AI — Sovereign Autonomous Operating Systems, Kinetic Agents & Deterministic Safety Framework",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "info": "echo \"iMpact AI Ecosystem Online\""
+    "build": "tsc",
+    "test": "node run_tests.cjs"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iMpacts-AI/iMpact.git"
   },
   "keywords": [
+    "sovereign-ai",
     "impact-ai",
     "orion",
-    "autonomous-agent",
+    "autonomous-agents",
     "computer-use",
-    "ai-os"
+    "kinetic-os",
+    "deterministic-safety",
+    "typescript",
+    "operating-systems"
   ],
-  "author": "iMpact AI Engineering",
-  "license": "MIT"
+  "author": "Sheikh Saqib <contact@impacts-ai.com> (https://impacts-ai.com)",
+  "license": "MIT",
+  "homepage": "https://impacts-ai.com"
 }

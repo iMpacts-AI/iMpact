@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "typeRoots": ["../ORION/node_modules/@types"],
+    "outDir": "./dist-test"
+  },
+  "include": ["src/**/*", "tests/**/*"]
+}
