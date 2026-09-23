@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Ecosystem: Active](https://img.shields.io/badge/Ecosystem-Active-emerald.svg)]()
 [![Flagship: ORION](https://img.shields.io/badge/Flagship-ORION%20OS-blueviolet.svg)](https://github.com/iMpacts-AI/ORION)
-[![Enterprise: Ready](https://img.shields.io/badge/Enterprise-Coders%20HQ%20Certified-00f0ff.svg)]()
+[![Coders HQ: Showcase Ready](https://img.shields.io/badge/Coders%20HQ-Showcase%20Ready-00f0ff.svg)]()
 
 **iMpact AI** is an advanced artificial intelligence engineering organization dedicated to building sovereign, autonomous operating systems and agentic infrastructure. We pioneer closed-loop human-AI operating environments where intelligent agents perceive, reason, and actuate directly across operating systems and enterprise workflows.
 
