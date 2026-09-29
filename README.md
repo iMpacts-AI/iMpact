@@ -1,41 +1,46 @@
 <div align="center">
 
-<img src="./assets/impact-logo.jpg" alt="iMpact AI Logo" width="380" style="border-radius: 12px; margin-bottom: 20px;" />
+<img src="./assets/impact-logo.jpg" alt="iMpact AI Logo" width="420" style="border-radius: 16px; margin-bottom: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
 
 # iMpact AI
 ### *Autonomous Sovereign Intelligence, Kinetic Agents & Desktop Operating Systems*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Research: Independent AI Lab](https://img.shields.io/badge/Research-Independent%20AI%20Lab-blueviolet.svg)]()
-[![Flagship: ORION](https://img.shields.io/badge/Flagship-ORION%20OS-00f0ff.svg)](https://github.com/iMpacts-AI/ORION)
-[![Systems: Kinetic OS Agents](https://img.shields.io/badge/Systems-Kinetic%20OS%20Agents-emerald.svg)]()
-[![Global: Open Collaboration](https://img.shields.io/badge/Global-Open%20Collaboration-yellow.svg)]()
+[![Organization: iMpact AI](https://img.shields.io/badge/ORGANIZATION-iMpact%20AI-00f0ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMpacts-AI)
+[![Founder: SHEIKH MOHAMMED SAQIB](https://img.shields.io/badge/FOUNDER-SHEIKH%20MOHAMMED%20SAQIB-blue?style=for-the-badge)](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)
+[![Flagship: ORION](https://img.shields.io/badge/FLAGSHIP-ORION%20OS-brightgreen?style=for-the-badge)](https://github.com/iMpacts-AI/ORION)
+[![Portal: impacts-ai.com](https://img.shields.io/badge/PORTAL-IMPACTS--AI.COM-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://impacts-ai.com/)
+[![LinkedIn: impact-ai](https://img.shields.io/badge/LINKEDIN-IMPACT--AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impact-ai)
+[![Instagram: @impacts_ai](https://img.shields.io/badge/INSTAGRAM-@IMPACTS__AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/impacts_ai/)
+[![YouTube: iMpact AI](https://img.shields.io/badge/YOUTUBE-IMPACT%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGHBVNRNwYRRfY02yQqemPQ)
 
-**iMpact AI** is an advanced independent artificial intelligence engineering initiative dedicated to pioneering sovereign autonomous operating systems, kinetic computer-use agents, and deterministic safety architectures. Founded and led by independent builder Sheikh Saqib, iMpact develops closed-loop environments where intelligent agents perceive, reason, and actuate directly across native operating systems and real-world computational workflows.
+<br />
 
-[Vision](#vision) • [Product Ecosystem](#product-ecosystem) • [Core Architecture](#core-architecture) • [Security & Sovereignty](#security--sovereignty) • [Empirical Standards](#empirical-standards--verification) • [Global Collaboration](#global-research--academic-collaboration)
+> ### **NETWORK &bull; REASON &bull; IMPACT**
+> *"The future of computational intelligence will not take place inside browser chat windows. It belongs to ambient, sovereign desktop operating systems capable of perceiving, reasoning, and actuating directly across native environments with kinetic precision."*  
+> &mdash; **SHEIKH MOHAMMED SAQIB**, Founder & Chief AI Systems Architect
 
 ---
 
 </div>
 
-## Vision
+## 🌌 Vision
 
 The next era of personal and enterprise computing will not take place inside isolated browser chat windows. It belongs to **ambient, sovereign AI operating systems** that run natively alongside human operators—observing desktop context, understanding intent, and executing multi-step computational tasks across applications without friction or simulation.
 
-iMpact AI develops the foundational frameworks and product lines enabling this paradigm:
+Founded and spearheaded by **[SHEIKH MOHAMMED SAQIB](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)**, **iMpact AI** develops the foundational frameworks and product lines enabling this paradigm:
 1. **Kinetic Operating System Control:** Direct, verified OS actuation through native sub-25ms cursor manipulation, window supervision, and application interaction.
 2. **Deterministic Safety Containment:** Zero-trust security kernels that prevent unauthorized destructive actions while maximizing autonomous task throughput.
 3. **Multi-Sector Neural Routing:** Dynamic, multi-model intelligence that automatically selects the optimal reasoning engine based on task complexity, latency requirements, and privacy constraints.
 
 ---
 
-## Product Ecosystem
+## 🏛️ Product Ecosystem
 
 ```mermaid
 graph TD
     IMPACT["iMpact AI Umbrella Ecosystem"] --> ORION["ORION // Desktop AI OS\n(Flagship Autonomous Assistant)"]
-    IMPACT --> TITAN["TITAN Pipeline\n(Closed-Loop Multi-Stage Production)"]
+    IMPACT --> CORE["iMpact Core Framework\n(Sovereign AI Kernel & Governance)"]
+    IMPACT --> FOUNDER["SHEIKH MOHAMMED SAQIB\n(Founder Portfolio & Monograph Series)"]
     IMPACT --> KINETIC["Kinetic OS Engine\n(Native Win32 Automation & Vision)"]
     IMPACT --> SECTORS["Quantum Sector Matrix\n(Sovereign Multi-Model Compute)"]
 
@@ -44,22 +49,27 @@ graph TD
     TITAN --> TITAN_EXP["Batch Orchestration & Release"]
 ```
 
-### 1. ORION (Flagship Operating System)
+### 1. 🌟 [ORION (Flagship Operating System)](https://github.com/iMpacts-AI/ORION)
 * **Repository:** [`iMpacts-AI/ORION`](https://github.com/iMpacts-AI/ORION)
 * **Category:** Autonomous Desktop AI Operating System
 * **Capabilities:** 3D Planetary Torus HUD, full kinetic computer use (mouse, keyboard, app launching), multi-tool execution DAG, multimodal optical screen vision, sub-25ms Win32 input dispatching, and voice synthesis.
 
-### 2. TITAN Pipeline
+### 2. 👑 [SHEIKH MOHAMMED SAQIB (Founder & Chief Architect)](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)
+* **Repository:** [`iMpacts-AI/Sheikh-Mohammed-Saqib`](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib)
+* **Category:** Executive Founder Portfolio, Philosophy & Monograph Series
+* **Monographs:** *The Death of the Chatbot Sandbox*, *Deterministic Safety Kernels*, and *Sovereign Multi-Sector Intelligence*.
+
+### 3. ⚡ TITAN Pipeline
 * **Category:** Closed-Loop Multi-Stage Production Engine
 * **Capabilities:** Autonomous asset inspection, quality scoring, draft rendering, and verifiable distribution packaging.
 
-### 3. Kinetic OS Automation Driver
+### 4. 🕹️ Kinetic OS Automation Driver
 * **Category:** Native Windows & Cross-Platform Hardware Controller
 * **Capabilities:** Zero-latency mouse cursor trajectory interpolation, virtual keystroke injection, window focus activation, and screen comprehension.
 
 ---
 
-## Core Architecture
+## ⚙️ Core Architecture
 
 iMpact systems are built around the **Observe-Plan-Act-Verify (OPAV)** closed-loop execution lifecycle:
 
@@ -73,7 +83,7 @@ iMpact systems are built around the **Observe-Plan-Act-Verify (OPAV)** closed-lo
 
 ---
 
-## Security & Sovereignty
+## 🔒 Security & Sovereignty
 
 * **Boundary Containment:** Protected operating system boundaries (`C:\Windows`, `System32`, root system configurations) are strictly blocked by deterministic security kernels.
 * **Process Supervision:** Every spawned child process is managed under a supervised process tree with hardware emergency-stop capability (`taskkill /T /F /PID`).
@@ -81,7 +91,7 @@ iMpact systems are built around the **Observe-Plan-Act-Verify (OPAV)** closed-lo
 
 ---
 
-## Empirical Standards & Verification
+## 📊 Empirical Standards & Verification
 
 iMpact AI adheres to strict empirical engineering principles:
 * **43 / 43 Verified Test Suites** executing across pure process isolation.
@@ -90,7 +100,7 @@ iMpact AI adheres to strict empirical engineering principles:
 
 ---
 
-## Global Research & Academic Collaboration
+## 🔬 Global Research & Academic Collaboration
 
 iMpact AI is an independent builder initiative engaging with the global AI research and engineering ecosystem:
 
@@ -103,14 +113,14 @@ iMpact AI is an independent builder initiative engaging with the global AI resea
 
 ```
 "The purpose of building is not to create demonstrations, but to engineer real technology that expands human agency."
-— Sheikh Saqib, Founder of iMpact AI
+— SHEIKH MOHAMMED SAQIB, Founder & Chief AI Systems Architect
 ```
 
 ---
 
 <div align="center">
 
-**iMpact AI — Shaping the Future of Sovereign Autonomous Computing.**  
-*Official Website: [https://impacts-ai.com](https://impacts-ai.com) • Inquiries: contact@impacts-ai.com*
+**iMpact AI &bull; Shaping the Future of Sovereign Autonomous Computing.**  
+*Official Portal: [https://impacts-ai.com](https://impacts-ai.com) &bull; Founder: [SHEIKH MOHAMMED SAQIB](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib) &bull; Inquiries: [contact@impacts-ai.com](mailto:contact@impacts-ai.com)*
 
 </div>
