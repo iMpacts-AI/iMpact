@@ -12,6 +12,7 @@
 [![LinkedIn: impact-ai](https://img.shields.io/badge/LINKEDIN-IMPACT--AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/impact-ai)
 [![Instagram: @impacts_ai](https://img.shields.io/badge/INSTAGRAM-@IMPACTS__AI-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/impacts_ai/)
 [![YouTube: iMpact AI](https://img.shields.io/badge/YOUTUBE-IMPACT%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGHBVNRNwYRRfY02yQqemPQ)
+[![Email: saqib@impacts-ai.com](https://img.shields.io/badge/EMAIL-SAQIB%40IMPACTS--AI.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqib@impacts-ai.com)
 
 <br />
 
@@ -121,6 +122,6 @@ iMpact AI is an independent builder initiative engaging with the global AI resea
 <div align="center">
 
 **iMpact AI &bull; Shaping the Future of Sovereign Autonomous Computing.**  
-*Official Portal: [https://impacts-ai.com](https://impacts-ai.com) &bull; Founder: [SHEIKH MOHAMMED SAQIB](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib) &bull; Inquiries: [contact@impacts-ai.com](mailto:contact@impacts-ai.com)*
+*Official Portal: [https://impacts-ai.com](https://impacts-ai.com) &bull; Founder: [SHEIKH MOHAMMED SAQIB](https://github.com/iMpacts-AI/Sheikh-Mohammed-Saqib) &bull; Inquiries & Contact: [saqib@impacts-ai.com](mailto:saqib@impacts-ai.com)*
 
 </div>
