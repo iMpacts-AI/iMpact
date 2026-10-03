@@ -33,6 +33,28 @@ Founded and spearheaded by **[SHEIKH MOHAMMED SAQIB](https://github.com/iMpacts-
 2. **Deterministic Safety Containment:** Zero-trust security kernels that prevent unauthorized destructive actions while maximizing autonomous task throughput.
 3. **Multi-Sector Neural Routing:** Dynamic, multi-model intelligence that automatically selects the optimal reasoning engine based on task complexity, latency requirements, and privacy constraints.
 
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  impact@sovereign-hq                                                        │
+│  ─────────────────────────────────────────────────────────────────────────  │
+│         __/\__       Organization: iMpact AI Global Engineering HQ          │
+│      .-'  /\  '-.    Motto: Network • Reason • Impact                       │
+│     /    /  \    \   Fleet: EMP-001 through EMP-010 Autonomous Agents       │
+│    |  .-'    '-.  |  Operating Model: One Tab = Entire Engineering Company  │
+│    |  |  /\  |  | |  Secret Gate: Quarantined Secrets (Zero Plaintext)      │
+│    |  '-.__.-'  | |  Discord Gateway: iMpact HQ Bot (Zero-Trust Allowlist)  │
+│     \    \  /    /   Release Pipeline: TITAN Automated QA & Quality Scorer  │
+│      '-.  \/  .-'    Inference: 10-Sector Quantum Fabric Dynamic Fallback   │
+│         ~~/\~~       Target: Win32 Desktop • CLI Toolchains • Workflows     │
+│       i M P A C T    Founder: Sheikh Mohammed Saqib                         │
+│     [ SOVEREIGN ]    Portal: https://impacts-ai.com                         │
+│                      Directive: Escaping the Sandbox into Native Agency     │
+│                      State: SOVEREIGN // CONTINUOUS AUTONOMY                │
+│                                                                             │
+│                      ███ ███ ███ ███ ███ ███ ███ ███                        │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
 ---
 
 ## 🏛️ Product Ecosystem
